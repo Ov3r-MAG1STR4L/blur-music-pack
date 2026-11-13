@@ -41,6 +41,10 @@ means a machine-learning guess, not a known virus: it is a common false positive
 scripts. The zip only contains text files (`.bat`, Python `.py`, `.lua`, `.txt`) that you can read before running
 anything.
 
+## Credits
+
+- "Now playing" banner: idea by **Gongas**, thanks!
+
 ## Not affiliated
 
 Fan-made, not affiliated with Activision or Bizarre Creations. Blur is a trademark of its owners.
