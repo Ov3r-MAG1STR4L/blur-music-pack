@@ -5,6 +5,9 @@ Play **your own music** during races in Blur (PC), with:
 - **Next track** during a race: press L3 twice on a controller, or the `9`/`ç` or `0`/`à` key (French AZERTY layout).
 - **Shuffle**: every track plays once in a random order, then the order repeats; each game session starts at a
   random point of that order. Works whatever you use to start Blur (Blur.exe, TextMod...).
+- **Now playing banner**: bottom-left, in the style of the game's HUD, each time a track starts (race start, end of
+  a track, next-track key), with a blue light streak. It shows "artist - title" from the file's tags (else the
+  file name), then the album and other info on the lines below.
 - **Game effects on the sound** (power-ups, crashes, wrecked, low health): on, partial (softer) or off.
 
 No music is included: you bring your own files (mp3, wav, flac, ogg, m4a).
