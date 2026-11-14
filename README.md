@@ -28,6 +28,9 @@ In short:
 
 `Uninstall.bat` puts the game back exactly as it was.
 
+From 1.2.0 on, `Choose music.bat` tells you when a newer release is out (it only shows the link: nothing is
+downloaded). To update: close Blur, replace the `Blur_Music` folder (keep your `Music` folder), run `Choose music.bat`.
+
 ## Requirements
 
 - Blur for PC. The next-track key needs AMAX.
